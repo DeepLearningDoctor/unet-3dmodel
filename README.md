@@ -12,16 +12,12 @@ One bottleneck layer
 To incorporate the 3D UNET model into your PowerPoint presentation, follow these steps:
 
 1.Download the .3mf File: Download the provided file containing the 3D UNET model from the repository.
+
 2.Open PowerPoint: Launch Microsoft PowerPoint and open the presentation where you want to insert the 3D model.
 
 3.Insert the 3D Model: Navigate to the slide where you want to add the 3D UNET model. Then, go to the "Insert" tab and select "3D Models" from the "Illustrations" group. Choose "From File" and select the downloaded .3mf file.
 
-![Insert 3d model in Powerpoint](/images/Screenshot%2024-03-12%234419.png)
-4. The model should look like this in the slides:
-![Inserted 3d model in Powerpoint](/images/Screenshot%2024-03-12%234622.png)
-
 4.Adjust the Model: Resize and position the 3D model according to your preferences. You can also adjust its orientation and lighting using PowerPoint's 3D model manipulation tool in the centre of the model.
-![Rotate 3d model in Powerpoint](/images/Screenshot%2024-03-12%234724.png)
 
 5. You can even add morph transition between 2 slides containing the model in different orientation to show a rotating animation
 ![unet animation](https://github.com/DeepLearningDoctor/unet-3dmodel/assets/140095099/09847241-9bb5-4779-8744-642c9d57c6cc)
