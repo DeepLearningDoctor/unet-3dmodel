@@ -2,7 +2,8 @@
 visualize UNET in 3 dimension with all the layers and connections for adding to Powerpoint presentations and 3d printing
 
 3D UNET Model for Visualization and presentation
-![](/images/Screenshot 2024-03-12 232941.png)
+![3d model of UNET](/images/Screenshot%202024-03-12%20232941.png)
+
 
 This repository contains a 3D model of a UNET (Convolutional Neural Network architecture) designed to visualize its structure in three dimensions within Microsoft PowerPoint presentations.
 
