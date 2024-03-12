@@ -3,7 +3,8 @@ visualize UNET in 3 dimension with all the layers and connections for adding to 
 
 3D UNET Model for Visualization and presentation
 
-Welcome to the 3D UNET Model repository! This repository contains a 3D model of a UNET (Convolutional Neural Network architecture) designed to visualize its structure in three dimensions within Microsoft PowerPoint presentations. This README provides instructions on how to utilize the model in your PowerPoint presentations and a brief explanation of the UNET architecture.
+This repository contains a 3D model of a UNET (Convolutional Neural Network architecture) designed to visualize its structure in three dimensions within Microsoft PowerPoint presentations.
+
 
 About UNET
 UNET is a convolutional neural network architecture widely used for biomedical image segmentation tasks. It was introduced by Olaf Ronneberger, Philipp Fischer, and Thomas Brox in their paper titled "U-Net: Convolutional Networks for Biomedical Image Segmentation" in 2015. UNET is particularly well-suited for semantic segmentation tasks where the goal is to assign a class label to each pixel in an input image.
