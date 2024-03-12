@@ -18,10 +18,10 @@ To incorporate the 3D UNET model into your PowerPoint presentation, follow these
 
 ![Insert 3d model in Powerpoint](/images/Screenshot%2024-03-12%234419.png)
 4. The model should look like this in the slides:
-![Inserted 3d model in Powerpoint](/images/Screenshot%2024-03-12%234419.png)
+![Inserted 3d model in Powerpoint](/images/Screenshot%2024-03-12%234622.png)
 
 4.Adjust the Model: Resize and position the 3D model according to your preferences. You can also adjust its orientation and lighting using PowerPoint's 3D model manipulation tool in the centre of the model.
-![Insert 3d model in Powerpoint](/images/Screenshot%2024-03-12%234419.png)
+![Rotate 3d model in Powerpoint](/images/Screenshot%2024-03-12%234724.png)
 
 5. You can even add morph transition between 2 slides containing the model in different orientation to show a rotating animation
 ![unet animation](https://github.com/DeepLearningDoctor/unet-3dmodel/assets/140095099/09847241-9bb5-4779-8744-642c9d57c6cc)
